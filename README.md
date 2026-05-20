@@ -1,5 +1,19 @@
 ## Hi there 👋 teste
 
+
+<div align="center">
+
+| Skill          | Nível        | Barra de Progresso |
+| -------------- | ------------ | ------------------ |
+| HTML5          | ███████░░ | 80%                |
+| CSS3           | ████████░░░░ | 70%                |
+| JavaScript     | █████░░░░░░░ | 40%                |
+| Git/GitHub     | ███████░░░░░ | 60%                |
+| Responsividade | ██████░░░░░░ | 55%                |
+| WordPress      | ████░░░░░░░░ | 35%                |
+
+</div>
+
 <!--
 **Heloisa-ct/Heloisa-ct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
